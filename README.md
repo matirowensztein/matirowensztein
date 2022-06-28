@@ -1,4 +1,4 @@
-<h1>Matias Rowensztein</h1>	
+<center><h1>Matias Rowensztein</h1></center>	
 
 
 <!--
