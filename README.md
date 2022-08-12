@@ -1,11 +1,8 @@
 <h1 align="center"> Hola soy Matias Rowensztein 👋</h1>
 <h3 align="center"> Desarrollador Front End 🖌️</h3>
- 
-#### Sobre de mi
+<h3 align="center"> Todo lo que quieras saber sobre mi en mi pagina personal!</h3>
+<h2 align="center">https://matiasrowensztein.netlify.app/</h2>
 
-- Estudiante de ORT Argentina
-- Conocedor de lenguajes C++, C# y JavaScript
-- Manejo de HTML, Bootstrap, CSS y SQL
 
 <!--
 **MatiRowen/MatiRowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
