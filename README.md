@@ -1,5 +1,12 @@
-<center><h1>Matias Rowensztein</h1></center>	
+<h1 align="center"> Hola soy Franco Damian Lamas 👋</h1>
+<h3 align="center"> Soy un desarrollador Full Stack 💻 y estoy cursando la carrera de ingenieria en informatica en UBA 📖 </h3>
+ 
+#### Acerca de mi
 
+- Estudiante de ORT Argentina
+- Conocedor de lenguajes C++, C# y JavaScript
+- Manejo de HTML, Bootstrap, CSS y SQL
+- Aguate Boca 💙💛💙
 
 <!--
 **MatiRowen/MatiRowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
