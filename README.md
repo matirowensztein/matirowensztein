@@ -1,7 +1,7 @@
 <h1 align="center"> Hola soy Matias Rowensztein 👋</h1>
-<h3 align="center"> Desarrollador Front End 🖌️</h3>
-<h3 align="center"> Todo lo que quieras saber sobre mi en mi pagina personal!</h3>
-<h3 align="center">https://matiasrowensztein.netlify.app/</h3>
+<h2 align="center"> Desarrollador Front End 🖌️</h2>
+<h2 align="center"> Todo lo que quieras saber sobre mi en mi pagina personal!</h2>
+<h2 align="center">https://matiasrowensztein.netlify.app/</h2>
 
 
 <!--
